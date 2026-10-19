@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-//hello there
+
 class C {
-  static const navy = Color(0xFFB3192B);//1234
+  static const navy = Color(0xFFB3192B);
   static const ink = Color(0xFF253044);
   static const sub = Color(0xFF5B6472);
   static const bg = Color(0xFFF6F7F9);
